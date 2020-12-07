@@ -48,6 +48,10 @@
         <developer>
             <name>Artur Mkrtchyan</name>
         </developer>
+        <developer>
+            <name>Kayvan Tehrani</name>
+            <email>k1.tehrani@gmail.com</email>
+        </developer>
     </developers>
 
 
@@ -61,7 +65,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         <dependency>
